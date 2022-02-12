@@ -30,7 +30,7 @@ fn render_planets(planets: &Vec<Planet>) {
 }
 
 fn key_value<T: std::fmt::Display>(k: &str, v: T) {
-    cyan!("{}: ", k);
+    cyan!("  * {}: ", k);
     dark_yellow!("{}\n", v);
 }
 
