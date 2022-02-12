@@ -1,6 +1,9 @@
 # CLI Planets
 Serves planets data on your terminal
 
+### Screenshot
+![Screenshot](./screenshot.png)
+
 ### Why does this project exist
 To practice the following in Rust:
 - Talking to an API
